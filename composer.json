@@ -1,0 +1,16 @@
+{
+    "name": "floch/op",
+    "description": "oop",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Floch\\Op\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Nisa"
+        }
+    ],
+    "require": {}
+}
